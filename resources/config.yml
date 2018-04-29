@@ -7,14 +7,14 @@ void_message: "&3{player} &efell out in the void!"
 ###############################
 # use true-false in the under
 # if you want to clear inventory on fell out in the void or no!
-clear_inventory: false
+clear_inventory: true
 ###############################
 # if you want when the killer kill the player get heal!
 heal_for_killer: false
 # if you want when the killer kill the player get money,EconomyAPI!
-money_when_kill: false
+money_when_kill: true
 # how many money do you want to get to killer?
-money_amount: 10
+money_amount: 100
 # message you want to get to the killer when get money!
-money_message: "&eYou have got 10 money!"
+money_message: "&aCongratulations! &bYou have got $100 Balance!"
 ...
